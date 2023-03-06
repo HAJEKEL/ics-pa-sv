@@ -1,4 +1,4 @@
-# Intelligent Control Systems: Practical Assignment
+# Intelligent Control Systems: Practical Assignment - Autor H.A. Jekel
 
 The assignment can be completed either **locally** on your own machine (natively on macOS / Ubuntu or inside Docker container) or in the cloud leveraging **[GitHub Codespaces]((#2-github-codespaces))**. Accordingly, either follow the instructions in [Section 1](#1-local-system), [Section 2](#2-github-codespaces), or [Section 3](#3-local-dev-containers).
 
